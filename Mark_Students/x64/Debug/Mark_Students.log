@@ -1,0 +1,3 @@
+﻿  Marks.cpp
+D:\Программы\It_class\C++\Mark_Students\Marks.cpp(88,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Mark_Students.vcxproj -> D:\Программы\It_class\C++\Mark_Students\x64\Debug\Mark_Students.exe
