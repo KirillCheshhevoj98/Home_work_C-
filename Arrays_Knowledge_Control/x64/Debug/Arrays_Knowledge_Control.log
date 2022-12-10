@@ -1,0 +1,6 @@
+﻿  Task_7.cpp
+D:\Программы\It_class\C++\Arrays_Knowledge_Control\Task_7.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Программы\It_class\C++\Arrays_Knowledge_Control\Task_7.cpp(50,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Программы\It_class\C++\Arrays_Knowledge_Control\Task_7.cpp(17,70): warning C4101: arr5: неиспользованная локальная переменная
+D:\Программы\It_class\C++\Arrays_Knowledge_Control\Task_7.cpp(17,54): warning C4101: arr4: неиспользованная локальная переменная
+  Arrays_Knowledge_Control.vcxproj -> D:\Программы\It_class\C++\Arrays_Knowledge_Control\x64\Debug\Arrays_Knowledge_Control.exe
